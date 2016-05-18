@@ -1,4 +1,5 @@
-[main]: https://github.com/bravosierra99/CTF_Write_Ups/2016-JCC/
+[main]: https://github.com/bravosierra99/CTF_Write_Ups/blob/master/2016-JCC/re_250_shrek/imgs/main.png
+[auth]: https://github.com/bravosierra99/CTF_Write_Ups/blob/master/2016-JCC/re_250_shrek/imgs/auth.png
 # JCC: re_250 aka shrek
 
 --------------
@@ -23,3 +24,4 @@ First thing I like to do is run the program.  Running the program with an argume
 
 So I pop into IDA to take a look at what's going on.  Fortunately, it seems very straight forward.
 
+![alt text][main]
