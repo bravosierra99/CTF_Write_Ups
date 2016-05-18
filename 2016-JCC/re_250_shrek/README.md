@@ -47,3 +47,11 @@ I made several assumptions.  One being that the *f* was a part of *flag{* and th
 ![alt text][step1]
 ![alt text][step2]
 ![alt text][step3]
+
+Keep going and you get your flag which you then painstakingly convert from hex to ascii.  
+
+A couple of notes
+Don't set your watchpoint before starting the program.  You'll end up stopping in all sorts of initialization library calls.  So I stepped over the prep_the_battlefield and then set the watch point.
+The up arrow is super handy for doing repetative work like this
+Use GDB-PEDA, it's better in every possible way
+Check out the python script I wrote based off of @ohai's pin script that will solve this automatically using intel's pin tool.  It's a way more automated way of doing this.
