@@ -1,6 +1,8 @@
 [main]: https://github.com/bravosierra99/CTF_Write_Ups/blob/master/2016-JCC/re_250_shrek/imgs/main.png
 [auth]: https://github.com/bravosierra99/CTF_Write_Ups/blob/master/2016-JCC/re_250_shrek/imgs/auth.png
-[auth]: https://github.com/bravosierra99/CTF_Write_Ups/blob/master/2016-JCC/re_250_shrek/imgs/step
+[step1]: https://github.com/bravosierra99/CTF_Write_Ups/blob/master/2016-JCC/re_250_shrek/imgs/step\ 1.png
+[step2]: https://github.com/bravosierra99/CTF_Write_Ups/blob/master/2016-JCC/re_250_shrek/imgs/step\ 2.png
+[step3]: https://github.com/bravosierra99/CTF_Write_Ups/blob/master/2016-JCC/re_250_shrek/imgs/step\ 3.png
 # JCC: re_250 aka shrek
 
 --------------
