@@ -14,7 +14,7 @@
 **Description:**
 * A reversing challenge binary with layers.
 
-Shrek: Ogres are like onions.
+*Shrek: Ogres are like onions.
 Donkey: They stink?
 Shrek: Yes. No.
 Donkey: Oh, they make you cry.
